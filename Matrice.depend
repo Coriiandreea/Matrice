@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1553371433 source:e:\matrice\matrice\main.cpp
+	<iostream>
+	"matrice.h"
+
+1553367783 e:\matrice\matrice\matrice.h
+	<math.h>
+
+1553376788 source:c:\users\corina\onedrive\desktop\matrice\main.cpp
+	<iostream>
+	<fstream>
+	"matrix.h"
+
+1553374546 c:\users\corina\onedrive\desktop\matrice\matrice.h
+	<math.h>
+
+1553376666 c:\users\corina\onedrive\desktop\matrice\matrix.h
+	<math.h>
+
